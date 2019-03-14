@@ -1,7 +1,7 @@
-TypeScript React Grid Layout Demo
-=================================
+TypeScript React Grid Layout Resize Drag Demo
+=============================================
 
-使用`react-grid-layout`来布局，功能非常强大。
+默认情况下，react-grid-layout支持resize和drag，并且可以通过`onLayoutChange`获取变化之后的layout
 
 ```
 npm install
